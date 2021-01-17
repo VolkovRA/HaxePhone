@@ -1,8 +1,8 @@
 {
-    "name": "phone",
+    "name": "phonenumber",
     "url": "https://github.com/VolkovRA/HaxeDOM/blob/master/README.md",
     "license": "MIT",
-    "tags": ["libphonenumber", "phone", "web", "js", "extern"],
+    "tags": ["libphonenumber", "phone", "phonenumber", "web", "js", "extern"],
     "description": "Экстерны для внешней библиотеки libphonenumber-js",
     "version": "1.9.8",
     "releasenote": "Release",
